@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bdfghdf-prod
+  labels:
+    environment-id: env_fbe95031-a913-4fea-94aa-142359619f1d
+    project-id: project_17fb4c38-dc6e-4f2d-ae04-61de67c41146
+    project-name: bdfghdf
+    environment-name: prod
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627

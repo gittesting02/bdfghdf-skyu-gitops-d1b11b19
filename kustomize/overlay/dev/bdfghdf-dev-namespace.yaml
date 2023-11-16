@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bdfghdf-dev
+  labels:
+    environment-id: env_fb035efc-b6e6-4b13-995e-8cc66c798257
+    project-id: project_17fb4c38-dc6e-4f2d-ae04-61de67c41146
+    project-name: bdfghdf
+    environment-name: dev
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
